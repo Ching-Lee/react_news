@@ -1,0 +1,34 @@
+#mobile {
+    font-size: 50px;
+
+}
+
+#mobile header {
+    border-bottom: 1px solid #2db7f5;
+    padding: 10px;
+    height: 60px;
+}
+
+#mobile header img {
+    height: 50px;
+    vertical-align: top;
+}
+
+#mobile header span {
+    font-size: 30px;
+    padding-left: 10px;
+    color: #2db7f5;
+    vertical-align: top;
+}
+
+#mobile header i {
+    font-size: 0.5em;
+    margin-right: 0.4em;
+    margin-top: 0.4em;
+    color: #2db7f5;
+    float:right;
+}
+
+.ant-tabs-bar{
+    margin-bottom: 2px;
+}

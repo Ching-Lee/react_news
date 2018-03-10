@@ -1,0 +1,23 @@
+/*设置logo为弹性布局，设置弹性容器侧轴对齐方式为居中对齐*/
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.logo img{
+    width:48px;
+    height: 48px;
+}
+
+.logo span{
+    font-size: 24px;
+    padding-left: 5px;
+}
+
+
+/*模态框中的登录按钮*/
+.login-form-button{
+    display:block;
+    margin: 5px auto;
+    width:70%;
+}

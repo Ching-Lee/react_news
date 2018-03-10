@@ -1,0 +1,31 @@
+.imageSingle_sec {
+    border-bottom: thin #E8E8E8 solid;
+    display: flex;
+    align-items: center;
+    box-sizing: content-box;
+    height: 95px;
+    padding: 5px 0;
+
+}
+
+.imageSingle_sec .imageSingle_right {
+    margin-left:1em;
+    flex:1;
+}
+
+.imageSingle_sec .imageSingle_right p{
+   margin-bottom:0;
+}
+
+.imageSingle_sec .imageSingle_right .realType{
+    color:red;
+    font-weight:bolder;
+    margin-right:1em;
+}
+
+.imageSingleCard{
+    height: 736px;
+}
+
+
+

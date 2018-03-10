@@ -1,0 +1,20 @@
+.mob_news_sec{
+    border:thin #E8E8E8 solid;
+    padding:0.5rem 0;
+    display: flex;
+    align-items: center;
+    height: 90px;
+    box-sizing: content-box;
+}
+
+.mob_news_sec .mob_news_right{
+    flex: 1;
+    margin-left:0.5rem ;
+}
+
+.mob_news_sec .mob_news_right .mob_news_realtype{
+    color:red;
+    font-weight:bolder;
+    margin-right: 1em;
+
+}

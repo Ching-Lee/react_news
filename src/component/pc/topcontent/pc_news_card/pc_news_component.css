@@ -1,0 +1,19 @@
+
+/*设置头部新闻部分样式*/
+.news_card>ul{
+    font-size: 14px;
+    padding-left: 15px;
+}
+
+.news_card ul a{
+    color: #666;
+    line-height: 22px;
+
+}
+.news_card ul a:hover{
+    color: #2db7f5;
+}
+
+.news_card{
+    height: 705px;
+}

@@ -1,0 +1,26 @@
+.top_news{
+    padding-top: 10px;
+}
+
+.top_news>div{
+    height:760px;
+}
+.top_news .top_left{
+    margin-top: 10px;
+}
+
+.top_news .top_left Carousel div{
+    height: 300px;
+}
+
+.top_news .top_center{
+    margin:0 20px;
+}
+
+.tabs_news .ant-tabs-bar{
+    margin-bottom: 0px;
+}
+
+.top_news .top_right{
+    margin-top:15px;
+}

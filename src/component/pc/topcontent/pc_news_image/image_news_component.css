@@ -1,0 +1,24 @@
+.image_news_container{
+    display:flex;
+    flex-wrap:wrap;
+}
+
+/*图片框每个item的div*/
+.image_news_item{
+    margin: 0.5rem;
+}
+
+/*设置图片块每一项的标题*/
+.image_news_item h3{
+    white-space: nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+/*左边imageblock的内边距*/
+.image_card .ant-card-body{
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 14px;
+}
+
+
